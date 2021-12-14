@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jiyunku
-- 👀 I’m interested in ... math/stat 
-- 🌱 I’m currently learning ... regressions 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Multivariate Analysis 
+- 🌱 I’m currently in Master's Degree 
 - 📫 How to reach me ... goodegooji@gmail.com
 
 <!---
